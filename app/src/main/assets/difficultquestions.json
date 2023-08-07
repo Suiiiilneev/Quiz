@@ -1,67 +1,67 @@
 {
   "difficultquestions": [
     {
-      "question": "Difficult Questions Answer A",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "A) A"
+      "question": "What is the capital of Vietnam",
+      "answer1": "A) Hanoi",
+      "answer2": "B) Bangkok",
+      "answer3": "C) Manila",
+      "answer4": "D) Taipei",
+      "correct": "A) Hanoi"
     },
     {
-      "question": "Difficult Questions Answer B",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "B) B"
+      "question": "What is the capital of Malaysia",
+      "answer1": "A) Jakarta",
+      "answer2": "B) Kuala Lumpur",
+      "answer3": "C) Dhaka",
+      "answer4": "D) Singapore",
+      "correct": "B) Kuala Lumpur"
     },
     {
-      "question": "Difficult Questions Answer C",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "C) C"
+      "question": "What is the capital of Brunei",
+      "answer1": "A) Tokyo",
+      "answer2": "B) Nairobi",
+      "answer3": "C) Bandar Seri",
+      "answer4": "D) Lusaka",
+      "correct": "C) Bandar Seri"
     },
     {
-      "question": "Difficult Questions Answer D",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "D) D"
+      "question": "What is the capital of Zimbabwe",
+      "answer1": "A) Kampala",
+      "answer2": "B) Luanda",
+      "answer3": "C) Pretoria",
+      "answer4": "D) Harare",
+      "correct": "D) Harare"
     }, {
-      "question": "Difficult Questions Answer E",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "A) A"
+      "question": "What is the capital of Colombia",
+      "answer1": "A) Bogota",
+      "answer2": "B) Asuncion",
+      "answer3": "C) Montevideo",
+      "answer4": "D) San-Paulo",
+      "correct": "A) Bogota"
     },
     {
-      "question": "Difficult Questions Answer F",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "B) B"
+      "question": "What is the capital of Costa Rica",
+      "answer1": "A) Managua",
+      "answer2": "B) San Jose",
+      "answer3": "C) Panama",
+      "answer4": "D) Guatemala",
+      "correct": "B) San Jose"
     },
     {
-      "question": "Difficult Questions Answer G",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "C) C"
+      "question": "What is the capital of Nigeria",
+      "answer1": "A) Cairo",
+      "answer2": "B) Lome",
+      "answer3": "C) Abuja",
+      "answer4": "D) Jerusalem",
+      "correct": "C) Abuja"
     },
     {
-      "question": "Difficult Questions Answer H",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "D) D"
+      "question": "What is the capital of Somalia",
+      "answer1": "A) London",
+      "answer2": "B) kinshasa",
+      "answer3": "C) Juba",
+      "answer4": "D) Mogadishu",
+      "correct": "D) Mogadishu"
     }
   ]
 }

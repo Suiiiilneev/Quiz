@@ -1,67 +1,67 @@
 {
   "easyquestions": [
     {
-      "question": "Easy Questions Answer A",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "A) A"
+      "question": "What is the capital of England",
+      "answer1": "A) London",
+      "answer2": "B) Paris",
+      "answer3": "C) Madrid",
+      "answer4": "D) Moscow",
+      "correct": "A) London"
     },
     {
-      "question": "Easy Questions Answer B",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "B) B"
+      "question": "What is the capital of USA",
+      "answer1": "A) Tokyo",
+      "answer2": "B) Washington",
+      "answer3": "C) Rwanda",
+      "answer4": "D) Lisbon",
+      "correct": "B) Washington"
     },
     {
-      "question": "Easy Questions Answer C",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "C) C"
+      "question": "What is the capital of South Korea",
+      "answer1": "A) Pyongyang",
+      "answer2": "B) Toronto",
+      "answer3": "C) Seoul",
+      "answer4": "D) Vladivostok",
+      "correct": "C) Seoul"
     },
     {
-      "question": "Easy Questions Answer D",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "D) D"
+      "question": "What is the capital of Czech Republic",
+      "answer1": "A) Warsaw",
+      "answer2": "B) Kairo",
+      "answer3": "C) Oslo",
+      "answer4": "D) Prague",
+      "correct": "D) Prague"
     }, {
-      "question": "Easy Questions Answer E",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "A) A"
+      "question": "What is the capital of Uruguay",
+      "answer1": "A) Montevideo",
+      "answer2": "B) Vienna",
+      "answer3": "C) Kiev",
+      "answer4": "D) London",
+      "correct": "A) Montevideo"
     },
     {
-      "question": "Easy Questions Answer F",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "B) B"
+      "question": "What is the capital of Panama",
+      "answer1": "A) Lima",
+      "answer2": "B) Panama City",
+      "answer3": "C) Casablanca",
+      "answer4": "D) Moscow",
+      "correct": "B) Panama City"
     },
     {
-      "question": "Easy Questions Answer G",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "C) C"
+      "question": "What is the capital of France",
+      "answer1": "A) Lyon",
+      "answer2": "B) Monaco",
+      "answer3": "C) Paris",
+      "answer4": "D) Barcelona",
+      "correct": "C) Paris"
     },
     {
-      "question": "Easy Questions Answer H",
-      "answer1": "A) A",
-      "answer2": "B) B",
-      "answer3": "C) C",
-      "answer4": "D) D",
-      "correct": "D) D"
+      "question": "What is the capital of Portugal",
+      "answer1": "A) Madrid",
+      "answer2": "B) Tunis",
+      "answer3": "C) Athens",
+      "answer4": "D) Lisbon",
+      "correct": "D) Lisbon"
     }
   ]
 }
